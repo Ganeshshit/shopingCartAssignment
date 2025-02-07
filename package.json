@@ -9,5 +9,9 @@
   },
   "devDependencies": {
     "json-server": "^0.17.4"
+  },
+  "dependencies": {
+    "@jest/globals": "^29.7.0",
+    "axios": "^1.7.9"
   }
 }
